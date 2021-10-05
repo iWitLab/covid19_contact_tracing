@@ -1,0 +1,5 @@
+ alpha hamagen_recommend hamagen_public_areas
+ alpha cellular_reduce_my_risk cellular_help_prevent
+ alpha hamagen_help_no_infect hamagen_reduce_my_risk
+ alpha hamagen_privacy_concern hamagen_can_collect_sensitive
+ alpha corona_threat_population corona_threat_me corona_worry_me corona_worry_others
